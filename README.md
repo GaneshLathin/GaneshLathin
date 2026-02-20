@@ -34,25 +34,60 @@
 
 </div>
 
-```ts
-const ganesh = {
-  name        : "Ganesh S",
-  location    : "Tamil Nadu, India 🇮🇳",
-  college     : "Sri Krishna College of Engineering & Technology",
-  cgpa        : 8.45,
-  role        : ["Full-Stack Developer", "AI Enthusiast", "Problem Solver"],
-  techStack   : {
-    languages : ["Java", "Python", "C", "C++", "SQL"],
-    frontend  : ["React JS", "HTML5", "CSS3", "JavaScript"],
-    backend   : ["Spring Boot", "Node.js", "REST APIs"],
-    database  : ["MySQL", "MongoDB"],
-    cloud     : ["AWS", "Google Cloud"],
-  },
-  currentFocus: "AI-powered full-stack systems",
-  achievements: ["Hackathon Winner 🏆", "2x Neo Codeathon Podium", "Infosys Intern"],
-  funFact     : "I debug code faster than I debug my own thoughts 😄",
-};
-```
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 &nbsp; Who Am I?
+
+<img src="https://img.shields.io/badge/📍_Location-Tamil_Nadu,_India_🇮🇳-00e5ff?style=flat-square&labelColor=0d1e36"/>
+<img src="https://img.shields.io/badge/🎓_College-SKCET-7c3aed?style=flat-square&labelColor=0d1e36"/>
+<img src="https://img.shields.io/badge/📊_CGPA-8.45_%2F_10-10b981?style=flat-square&labelColor=0d1e36"/>
+
+<br/><br/>
+
+> 🚀 &nbsp;**Motivated CS undergrad** building AI-powered, scalable software that solves real-world problems.
+
+> ⚡ &nbsp;Passionate about **Full-Stack Development**, **Machine Learning**, and shipping products that actually matter.
+
+> 🏆 &nbsp;**Hackathon Winner** with a track record across 5+ competitions.
+
+> 💡 &nbsp;Currently focused on **AI-integrated full-stack systems**.
+
+> 😄 &nbsp;*Fun fact: I debug code faster than I debug my own thoughts!*
+
+</td>
+<td width="5%"></td>
+<td width="40%" valign="top">
+
+### 🌐 &nbsp; Quick Info
+
+| &nbsp; | &nbsp; |
+|:---|:---|
+| 💼 | Full-Stack Developer |
+| 🤖 | AI & ML Enthusiast |
+| 🌱 | Learning every day |
+| 🏅 | 6 Competition Awards |
+| 📜 | 4 Certifications |
+| 🔥 | Infosys Intern Alumni |
+| 📧 | ganeshsaravanan1905 |
+| 📱 | +91 6381414205 |
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<br/>
+
+![Visitor](https://img.shields.io/badge/🧠_Focus-AI--Powered_Full--Stack-00e5ff?style=for-the-badge&labelColor=0d1117)
+![Open](https://img.shields.io/badge/💼_Open_To-Internships_%26_Full--Time-7c3aed?style=for-the-badge&labelColor=0d1117)
+![Collab](https://img.shields.io/badge/🤝_Love-Hackathons_%26_Open_Source-f97316?style=for-the-badge&labelColor=0d1117)
+
+</div>
 
 ---
 
@@ -135,28 +170,55 @@ const ganesh = {
 
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td>
+<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏢  AI FULL-STACK INTERN — NeuroFleetX                 │
-│      Infosys Springboard Virtual Internship 6.0          │
-│      📅  Nov 2025 — Jan 2026                            │
-├─────────────────────────────────────────────────────────┤
-│                                                          │
-│  ▸  Built AI-powered urban fleet & traffic management   │
-│     system predicting real-time congestion patterns     │
-│                                                          │
-│  ▸  Boosted routing efficiency by 15% using ML models   │
-│                             ╔══════════════╗            │
-│                             ║ +15% IMPACT  ║            │
-│                             ╚══════════════╝            │
-│  ▸  Full-stack: React + Spring Boot + Machine Learning  │
-│                                                          │
-└─────────────────────────────────────────────────────────┘
-```
+![Company](https://img.shields.io/badge/🏢_Company-Infosys_Springboard-007CC3?style=for-the-badge&labelColor=0d1117)
+![Role](https://img.shields.io/badge/💼_Role-AI_Full--Stack_Intern-00e5ff?style=for-the-badge&labelColor=0d1117)
+![Period](https://img.shields.io/badge/📅_Period-Nov_2025_—_Jan_2026-7c3aed?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="30%">
+
+<br/>
+
+**🧠 NeuroFleetX**
+
+*AI-Powered Urban*
+*Fleet Management*
+
+<br/>
+
+![Impact](https://img.shields.io/badge/📈_Efficiency-+15%25-10b981?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+</td>
+<td width="70%" valign="top">
+
+<br/>
+
+**✦ &nbsp; What I Built**
+
+Built a real-time **AI-powered traffic & fleet management system** that predicts urban congestion patterns and dynamically optimizes vehicle routing across the city.
+
+**✦ &nbsp; Impact Delivered**
+
+Improved routing efficiency by **+15%** using predictive ML models — reducing city-wide congestion and operational overhead.
+
+**✦ &nbsp; Tech Used**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+<br/>
 
 </td>
 </tr>
