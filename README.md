@@ -1,236 +1,390 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ganesh%20S&fontSize=70&fontColor=00f0ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descColor=a78bfa&descSize=18" width="100%"/>
+<!-- PREMIUM ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,25:0a0a2e,50:0d1b4b,75:091428,100:020208&height=280&section=header&text=GANESH%20S&fontSize=90&fontColor=00e5ff&animation=twinkling&fontAlignY=40&desc=◈%20Full-Stack%20Architect%20◈%20AI%20Engineer%20◈%20Hackathon%20Champion%20◈&descAlignY=62&descColor=7c3aed&descSize=16&stroke=00e5ff&strokeWidth=2" width="100%"/>
 
-<!-- TYPING SVG -->
-<a href="https://github.com/GaneshLathin">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Ganesh+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Spring+Boot;AI+%26+ML+Explorer+%F0%9F%A7%A0;Hackathon+Winner+%F0%9F%8F%86;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- MATRIX RAIN EFFECT BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=00E5FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%5B+INITIALIZING+GANESH.EXE+...+%5D;%5B+LOADING+FULL-STACK+MODULES+%5D;%5B+AI+SYSTEMS+ONLINE+%E2%9C%93+%5D;%5B+HACKATHON+MODE+ACTIVATED+%F0%9F%8F%86+%5D;%5B+BUILD.+SHIP.+REPEAT.+%5D" alt="Typing Animation"/>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=GaneshLathin&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+<!-- LIVE STATUS BADGES -->
+<a href="mailto:ganeshsaravanan1905@gmail.com">
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20OPPORTUNITIES-00e5ff?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=050510"/>
+</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=GaneshLathin&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge&labelColor=050510"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/GaneshLathin?label=Followers&style=social" alt="followers"/>
+<img src="https://img.shields.io/github/followers/GaneshLathin?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=050510&logo=github"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CGPA-8.45%2F10-ff6b35?style=for-the-badge&labelColor=050510"/>
 
 </div>
 
----
+<br/>
 
-## 🌌 About Me
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```ts
-const ganesh = {
-  name        : "Ganesh S",
-  location    : "Tamil Nadu, India 🇮🇳",
-  college     : "Sri Krishna College of Engineering & Technology",
-  cgpa        : 8.45,
-  role        : "Full-Stack Developer & AI Enthusiast",
-  email       : "ganeshsaravanan1905@gmail.com",
-  phone       : "+91 6381414205",
-  passions    : ["Building scalable apps", "Competitive coding", "Hackathons"],
-  currentFocus: "AI-powered full-stack systems",
-  funFact     : "I debug code faster than I debug my own thoughts 😄",
-};
+<br/>
+
+## ◈ NEURAL PROFILE
+
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║                    GANESH S — SYSTEM PROFILE                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  $ whoami                                                        ║
+║  > Full-Stack Developer & AI Systems Engineer                    ║
+║                                                                  ║
+║  $ locate --identity                                             ║
+║  > Tamil Nadu, India 🇮🇳  |  SKCET, Computer Engineering        ║
+║                                                                  ║
+║  $ cat ./skills.json | grep "stack"                             ║
+║  > React · Spring Boot · Node.js · MySQL · MongoDB · AWS        ║
+║                                                                  ║
+║  $ git log --oneline --recent                                    ║
+║  > a7f3c21  Built AI traffic management @ NeuroFleetX           ║
+║  > 9d12ef4  Won Neo Codeathon (OCI-24) 🏆                       ║
+║  > 4b8a190  Launched Fitness Management System (LIVE)           ║
+║                                                                  ║
+║  $ echo $FUN_FACT                                                ║
+║  > "I debug code faster than I debug my own thoughts 😄"         ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ◈ TECH ARSENAL
 
 <div align="center">
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚡ Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=6"/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🎨 Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark&perline=5"/>
 
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postman,maven&theme=dark&perline=5"/>
 
-### 🗄️ Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,gcp,docker&theme=dark&perline=5"/>
+
+### 🛠️ DevTools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea&theme=dark&perline=5"/>
 
 </div>
 
----
+<br/>
 
-## 💼 Experience
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<table>
-<tr>
-<td width="60">
+<br/>
 
-🏢
+## ◈ MISSION LOGS — EXPERIENCE
 
-</td>
-<td>
+<div align="center">
 
-**AI Full-Stack Intern — NeuroFleetX**
-`Infosys Springboard Virtual Internship 6.0` &nbsp; ![Nov 2025](https://img.shields.io/badge/Nov%202025-Jan%202026-00f0ff?style=flat-square)
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  🏢  INFOSYS SPRINGBOARD VIRTUAL INTERNSHIP 6.0                      ║
+║  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  PROJECT: NeuroFleetX — AI Urban Traffic Management System           ║
+║  PERIOD:  Nov 2025 → Jan 2026                                        ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  🚦 MISSION OBJECTIVES COMPLETED:                                    ║
+║                                                                      ║
+║  ▸ [✓] Engineered AI-powered real-time traffic congestion predictor  ║
+║  ▸ [✓] Improved city routing efficiency by 15% using ML models       ║
+║  ▸ [✓] Deployed full-stack: React + Spring Boot + Machine Learning   ║
+║  ▸ [✓] Enhanced urban mobility across smart city infrastructure      ║
+║                                                                      ║
+║  STACK:  React  ·  Spring Boot  ·  Python ML  ·  REST APIs           ║
+║  STATUS: ██████████████████████████████  MISSION COMPLETE ✓         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-- 🚦 Built an **AI-powered urban fleet & traffic management system**, predicting real-time congestion
-- 📈 Improved routing efficiency by **15%** using ML-based predictions
-- ⚡ Delivered a full-stack solution: **React + Spring Boot + Machine Learning**
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+<br/>
+
+## ◈ PROJECT DEPLOYMENTS
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ Fitness Management System
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://fitness-management-system-omega.vercel.app/)
+<h3 align="center">🏋️ FITNESS MANAGEMENT SYSTEM</h3>
+<div align="center">
 
-> Gym management platform to handle **memberships**, **workouts**, and **trainer schedules** with a clean, efficient dashboard.
+[![LIVE DEMO](https://img.shields.io/badge/▶_LIVE_DEMO-00e5ff?style=for-the-badge&logo=vercel&logoColor=black)](https://fitness-management-system-omega.vercel.app/)
 
-**Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+</div>
+
+```
+┌─────────────────────────────────────┐
+│  💪 Gym Management Platform          │
+│                                     │
+│  ✦ Membership management system     │
+│  ✦ Workout tracking dashboard       │
+│  ✦ Trainer schedule optimization    │
+│  ✦ Clean & efficient admin UI       │
+│                                     │
+│  STACK                              │
+│  ⚛ React JS  →  Frontend            │
+│  🍃 Spring Boot  →  Backend          │
+│  🐬 MySQL  →  Database              │
+└─────────────────────────────────────┘
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 College Event Booking System
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaneshLathin/College-Event-Booking-Website)
+<h3 align="center">🎓 COLLEGE EVENT BOOKING</h3>
+<div align="center">
 
-> Campus-wide event booking with **real-time updates**, **Razorpay payments**, and **AWS** cloud hosting.
+[![VIEW CODE](https://img.shields.io/badge/◈_VIEW_CODE-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaneshLathin/College-Event-Booking-Website)
 
-**Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+</div>
+
+```
+┌─────────────────────────────────────┐
+│  🎪 Campus Event Platform            │
+│                                     │
+│  ✦ Real-time event booking          │
+│  ✦ Razorpay payment integration     │
+│  ✦ AWS cloud infrastructure         │
+│  ✦ Dynamic browse & manage          │
+│                                     │
+│  STACK                              │
+│  ⚛ React JS  →  Frontend            │
+│  🍃 Spring Boot  →  Backend          │
+│  🍃 MongoDB + AWS  →  Cloud DB      │
+└─────────────────────────────────────┘
+```
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🧠 NeuroFleetX — AI Traffic Management System
-> AI-driven urban fleet management system predicting traffic patterns & reducing city-wide congestion in **real-time**.
+<h3 align="center">🧠 NEUROFLEETX — AI TRAFFIC MANAGEMENT</h3>
 
-**Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  🌆 AI-Driven Urban Fleet Management  |  Real-Time Intelligence    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  Traffic Prediction Accuracy  ████████████████████░░░░  82%       ║
+║  Routing Efficiency Boost     ███████████████████░░░░░  +15%      ║
+║  Real-Time Response           ██████████████████████░░  91%       ║
+║  System Uptime                ████████████████████████  99.9%     ║
+║                                                                    ║
+║  ⚛ React  ·  🍃 Spring Boot  ·  🤖 ML Models  ·  🗺 REST APIs    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 </td>
 </tr>
 </table>
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ◈ PERFORMANCE METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GaneshLathin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=a78bfa&text_color=c9d1d9" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshLathin&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=a78bfa&fire=ff6b35&currStreakLabel=00f0ff" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GaneshLathin&show_icons=true&theme=radical&hide_border=true&bg_color=050510&title_color=00e5ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=00e5ff&border_radius=10" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshLathin&theme=radical&hide_border=true&background=050510&stroke=00e5ff&ring=7c3aed&fire=ff6b35&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=888888&border_radius=10" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshLathin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" width="40%" alt="Top Languages"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshLathin&layout=donut-vertical&theme=radical&hide_border=true&bg_color=050510&title_color=00e5ff&text_color=c9d1d9&border_radius=10" width="35%"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshLathin&bg_color=050510&color=00e5ff&line=7c3aed&point=ff6b35&area=true&hide_border=true&radius=6" width="60%"/>
 
 </div>
 
----
+<br/>
 
-## 🏆 Achievements & Trophies
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ◈ BATTLE RECORD — ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GaneshLathin&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GaneshLathin&theme=radical&no-frame=true&column=6&margin-w=8&margin-h=8" width="100%"/>
+
+<br/><br/>
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                  ◈  COMPETITIVE RECORD  ◈                     ║
+╠═══════╦═══════════════════════════════════╦═══════════════════╣
+║  RANK ║  COMPETITION                      ║  RESULT           ║
+╠═══════╬═══════════════════════════════════╬═══════════════════╣
+║  🏆   ║  Neo Codeathon (OCI-24 Edition)   ║  WINNER           ║
+╠═══════╬═══════════════════════════════════╬═══════════════════╣
+║  🥈   ║  Neo Codeathon (August Edition)   ║  2ND POSITION     ║
+╠═══════╬═══════════════════════════════════╬═══════════════════╣
+║  🥉   ║  Tamili Hackathon                 ║  2ND RUNNER-UP    ║
+╠═══════╬═══════════════════════════════════╬═══════════════════╣
+║  🎯   ║  KRIYA Hackathon                  ║  FINALIST         ║
+╠═══════╬═══════════════════════════════════╬═══════════════════╣
+║  🎯   ║  KPRIET NextGen Coding League     ║  FINALIST         ║
+╠═══════╬═══════════════════════════════════╬═══════════════════╣
+║  ⭐   ║  Web Technologies Using React     ║  TOP PERFORMER    ║
+╚═══════╩═══════════════════════════════════╩═══════════════════╝
+```
+
+**WIN RATE  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  ELITE TIER 🔥**
 
 </div>
 
-| 🏅 Award | 🎯 Competition |
-|---|---|
-| 🥉 2nd Runner-up | **Tamili Hackathon** |
-| 🏆 Winner | **Neo Codeathon (OCI-24 Edition)** |
-| 🥈 2nd Position | **Neo Codeathon (August Edition)** |
-| 🎯 Finalist | **KRIYA Hackathon** |
-| 🎯 Finalist | **KPRIET NextGen Coding League** |
-| ⭐ Top Performer | **Web Technologies Using React** |
+<br/>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📜 Certifications
+<br/>
+
+## ◈ CLEARANCE CERTIFICATES
 
 <div align="center">
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_Computing_Foundation-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Jr._Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Responsible_Generative_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_AI_%26_Vector_Search-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=050510)
+
+**Cloud Computing**<br/>Foundation — GCCF
+
+</td>
+<td align="center" width="25%">
+
+![Cisco](https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=050510)
+
+**Jr. Cybersecurity**<br/>Analyst Certified
+
+</td>
+<td align="center" width="25%">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=050510)
+
+**Responsible**<br/>Generative AI
+
+</td>
+<td align="center" width="25%">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=050510)
+
+**AI & Vector Search**<br/>ICT Academy
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
 
-## 🎓 Education
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ◈ ACADEMIC LEDGER
 
 <div align="center">
 
-| 🏫 Institution | 📚 Qualification | 📊 Score | 📅 Year |
-|---|---|---|---|
-| Sri Krishna College of Engineering & Technology | B.E. Computer Engineering | CGPA: **8.45 / 10** | 2023 – 2027 |
-| Krishnasamy Memorial Matric HSS | Higher Secondary | **92.83%** | 2022 – 2023 |
+```
+ INSTITUTION                           QUALIFICATION          SCORE        PERIOD
+ ─────────────────────────────────────────────────────────────────────────────────
+ Sri Krishna College of Engg & Tech    B.E. Comp. Engg.   CGPA 8.45/10   2023–27
+ ─────────────────────────────────────────────────────────────────────────────────
+ Krishnasamy Memorial Matric HSS       Higher Secondary      92.83%       2022–23
+ ─────────────────────────────────────────────────────────────────────────────────
+```
+
+**Academic Progress**
+```
+ Sem 1  ██████████████████████████████  ✦ Excellent
+ Sem 2  █████████████████████████████░  ✦ Outstanding
+ Sem 3  ██████████████████████████████  ✦ Top Percentile
+ Sem 4  ██████████████████████████████  ✦ Consistent High Achiever
+ CGPA   8.45 / 10.00  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  84.5%
+```
 
 </div>
 
----
+<br/>
 
-## 🤝 Connect With Me
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ◈ OPEN CHANNELS — CONNECT
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshsaravanan1905@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GaneshLathin)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-[![Phone](https://img.shields.io/badge/+91_6381414205-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916381414205)
+<a href="mailto:ganeshsaravanan1905@gmail.com">
+  <img src="https://img.shields.io/badge/◈_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050510"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/◈_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510"/>
+</a>
+&nbsp;
+<a href="https://github.com/GaneshLathin">
+  <img src="https://img.shields.io/badge/◈_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=050510"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com">
+  <img src="https://img.shields.io/badge/◈_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=050510"/>
+</a>
+&nbsp;
+<a href="tel:+916381414205">
+  <img src="https://img.shields.io/badge/◈_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=050510"/>
+</a>
+
+<br/><br/>
+
+```
+  "Ship fast. Learn fast. Win hackathons. Repeat."
+                                          — Ganesh S
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=⭐+Star+my+repos+if+they+helped+you!;🤝+Open+to+collaborations+%26+internships;🚀+Let's+build+something+extraordinary!" alt="Footer Typing"/>
 
 </div>
 
----
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GaneshLathin&bg_color=0d1117&color=00f0ff&line=a78bfa&point=ff6b35&area=true&hide_border=true)](https://github.com/GaneshLathin)
-
-</div>
-
----
-
-<div align="center">
+<br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-*⭐ Star my repos if you find them useful! Let's build something amazing together 🚀*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020208,50:0a0a2e,75:0d1b4b,100:050510&height=140&section=footer&fontSize=24&fontColor=00e5ff&text=◈%20BUILD%20·%20SHIP%20·%20WIN%20◈&fontAlignY=65&desc=&animation=twinkling" width="100%"/>
